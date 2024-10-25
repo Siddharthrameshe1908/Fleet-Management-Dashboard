@@ -1,0 +1,13 @@
+{
+  "vehicles": [
+    {
+      "id": "2b18",
+      "vehicleId": "V001",
+      "batteryPercentage": "70",
+      "totalDistance": "500",
+      "lastChargeTime": "2024-10-15T15:57",
+      "status": "Charging",
+      "scheduledChargeTime": null
+    }
+  ]
+}
